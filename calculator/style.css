@@ -1,0 +1,96 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.main{
+border: 2px solid grey;
+width: 170px;
+margin: 0 auto;
+background-color: grey
+;
+}
+
+.result{
+    width: 162px;
+    background-color: rgb(73, 61, 61);
+    color: white;
+  
+    
+}
+
+.same{
+    border-width: 1px;
+    width: 31.2%;
+    border-radius: 10px;
+    border-color: rgb(32, 32, 88);
+    
+}
+
+.btn{
+    border-width: 1px;
+    width: 22%;
+    border-radius: 10px;
+    color: rgb(9, 75, 119);
+    border-color: rgb(32, 32, 88);
+    
+
+}
+
+.btn1{
+    border-width: 1px;
+    color: rgb(9, 75, 119);
+    width: 30%;
+    border-radius: 10px;
+    border-color: rgb(32, 32, 88);
+    
+
+}
+#sign5{
+    background-color: rgb(6, 190, 6);
+    color: white;
+}
+ #sign4{
+    color: rgb(98, 158, 8);
+
+}
+
+
+#sign1,#sign6,#sign2,#sign3,#sign4 button{
+    color: rgb(98, 158, 8);
+}
+
+.div1{
+    width: 173px; 
+    margin-top: 2px; 
+}
+
+.div2{
+    width: 180px; 
+    margin-top: 2px; 
+
+}
+
+.div3{
+    width: 180px;
+    margin-top: 2px; 
+
+}
+
+.div4{
+    width: 180px; 
+    margin-top: 2px; 
+
+}
+
+.div5{
+    width: 180px; 
+    margin-top: 2px; 
+
+}
+
+#abcd{
+    color: red;
+}
+
+
+
